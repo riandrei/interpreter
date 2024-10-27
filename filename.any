@@ -1,0 +1,22 @@
+make expression = 2 + 3 * 8 - 5 / 5;
+make addition = 12 + 5;
+make subtraction = 14 - 2;
+make multiplication = 8 * 8;
+make division = 3 / 0;
+make exponent = 9 ^ 2
+make parenthesis = (2 + 5) * (4 + 3);
+
+display("Expression");
+display(expression);
+display("Addition");
+display(addition);
+display('Subtraction');
+display(subtraction);
+display('Multiplication');
+display(multiplication);
+display('Division');
+display(division);
+display('Exponent');
+display(exponent);
+display('Parenthesis');
+display(parenthesis);
